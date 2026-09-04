@@ -5,7 +5,7 @@
 
   **Instituto de pesquisa tecnológico aberto** · Curitiba, Brasil
 
-  [![Site](https://img.shields.io/badge/site-instituto--triangulo--tech.pages.dev-4fd1c5?style=flat-square)](https://instituto-triangulo-tech.pages.dev)
+  [![Site](https://img.shields.io/badge/site-instituto.triangulo.tech-4fd1c5?style=flat-square)](https://instituto.triangulo.tech)
   [![Reports](https://img.shields.io/badge/reports-CC%20BY%204.0-4fd1c5?style=flat-square)](#licenciamento)
   [![Code](https://img.shields.io/badge/code-MIT%20%2F%20Apache%202.0-4fd1c5?style=flat-square)](#licenciamento)
 </div>
@@ -19,7 +19,7 @@ como a inteligência artificial pode operar a vida real: agentes autônomos, dad
 pessoais sob controle do indivíduo e ambientes inteligentes. Pesquisa aplicada,
 publicada abertamente, construída sobre sistemas que rodam de verdade.
 
-**Site institucional:** [instituto-triangulo-tech.pages.dev](https://instituto-triangulo-tech.pages.dev)
+**Site institucional:** [instituto.triangulo.tech](https://instituto.triangulo.tech)
 
 ## Os três eixos de pesquisa
 
